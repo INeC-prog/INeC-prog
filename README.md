@@ -2,4 +2,4 @@
 - 👀 I’m interested in psychopathology of the emotional brain
 - 🌱 I’m currently learning how to evaluate the individual susceptibility to emotional changes permissive to the development of mental disorders
 - 💞️ I’m looking to collaborate on development of behavioral and physiological paradigms that can detect these alterations.
-- 📫 I´m based on the Instituto de Neurociencias e Comportamento (INeC), located in Ribeirão Preto, São Paulo, Brazil.
+- 📫 I´m based on the Instituto de Neurociencias e Comportamento (INeC), located at Ribeirão Preto, São Paulo, Brazil.
